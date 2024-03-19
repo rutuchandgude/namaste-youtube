@@ -1,0 +1,25 @@
+Youtube Project - 
+
+ - Features
+ - Tech stack
+ - Redux
+ - Tailwind
+ - react-Redux
+ - bundler
+ - jest, 
+
+ 
+ -header - hamberguer menu - sidebar
+   - logo, searchbar , login icon , buttons or vdos
+     - Header,vdo, suggestions, comments, subscribe and like button 
+
+- Components 
+ - Heading , Sidebar , Body - Button List,
+     - vdo component, vdo card , head 
+
+> npx create-react-app namaste-youtube
+
+> npm i -D tailwindcss
+> npx tailwindcss init 
+ - will initiate with config.js
+
