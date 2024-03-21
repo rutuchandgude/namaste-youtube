@@ -56,3 +56,21 @@ components -
 Redux setup :
  >npm i @reduxjs/toolkit
  >npm i react-redux
+
+- Youtube API :
+ Youtube -> Data API -> Reference -> Videos -> list 
+  -> list(most popular Videos) ->APIs Explorer
+
+("https://youtube.googleapis.com/youtube/v3/videos?key=[YOUR_API_KEY]")
+
+- youtube API key Auth :
+ - To make our credentials - create your own API key
+ - credential Page -> create credentials -> create API key 
+  (AIzaSyBibzAK3Qc1BG6IXxanIQF8-JijwP8b8fc)
+  - Enable Youtube Data API v3
+  -APIs Explorer- At right side extract the window their in HTTP will get an API
+
+  - VideoContainer.js
+  -VideoCard.js
+
+  
