@@ -73,4 +73,15 @@ Redux setup :
   - VideoContainer.js
   -VideoCard.js
 
-  
+- &maxResults=50 -> this added in API to get 50   vdos 
+-&regionCode=IN -> Added in API to get Indian vdos
+
+- Build Watch Page :
+ - Routing:
+  > npm i react-router-dom
+
+  //-----------
+   - created watchpage
+   - watchPage.js 
+    For closing Sidebar when we open Watchpage , useDispatch .
+    
