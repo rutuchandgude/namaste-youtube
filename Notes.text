@@ -156,3 +156,9 @@ Cache :
 }
 
 - LRU cache - Least Recently used catche
+
+- CommentsContainer.js
+ - Nested comments
+
+  If we enter then it shows the container.
+ 
