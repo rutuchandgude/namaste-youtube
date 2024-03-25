@@ -162,3 +162,27 @@ Cache :
 
   If we enter then it shows the container.
  
+ //---------Wrapping up youtube-----------------
+
+ DL - Gate Data Live 
+ UL - Update the utilities
+
+ - Datat (Live)
+                (No regular Interval)
+ Web Sockets -  UI ----> S (server)
+                 <----
+ (Trading Apps)
+
+
+
+ -API Pulling -  UI <----- s (server)
+  (Gmail)             (/interval)
+
+
+  - LiveChat.js
+  - ChatMessage.js
+  - chatSlice.js in utils 
+   
+
+
+
