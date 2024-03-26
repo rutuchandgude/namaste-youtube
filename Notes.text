@@ -182,7 +182,9 @@ Cache :
   - LiveChat.js
   - ChatMessage.js
   - chatSlice.js in utils 
-   
+   - helper.js in utils
+
+   Send message in Live Chat .
 
 
 
