@@ -2,28 +2,28 @@ import React from "react";
 
 const commentData = [
     {
-        name:"Akshay Saini",
+        name:"Default User",
         text:"Lorem ipsum dolor sit amet ,consectur adip",
         replies : [],
     },
     {
-        name:"Akshay Saini",
+        name:"Default User",
         text:"Lorem ipsum dolor sit amet ,consectur adip",
         replies : [
             {
-                name:"Akshay Saini",
+                name:"Default User",
                 text:"Lorem ipsum dolor sit amet ,consectur adip",
                 replies : [
                     {
-                        name:"Akshay Saini",
+                        name:"Default User",
                         text:"Lorem ipsum dolor sit amet ,consectur adip",
                         replies : [
                             {
-                                name:"Akshay Saini",
+                                name:"Default User",
                                 text:"Lorem ipsum dolor sit amet ,consectur adip",
                                 replies : [
                                     {
-                                        name:"Akshay Saini",
+                                        name:"Default User",
                                         text:"Lorem ipsum dolor sit amet ,consectur adip",
                                         replies : [],
                                     },
@@ -32,7 +32,7 @@ const commentData = [
                         ],
                     },
                     {
-                        name:"Akshay Saini",
+                        name:"Default User",
                         text:"Lorem ipsum dolor sit amet ,consectur adip",
                         replies : [],
                     },
@@ -41,17 +41,17 @@ const commentData = [
         ],
     },
     {
-        name:"Akshay Saini",
+        name:"Default User",
         text:"Lorem ipsum dolor sit amet ,consectur adip",
         replies : [],
     },
     {
-        name:"Akshay Saini",
+        name:"Default User",
         text:"Lorem ipsum dolor sit amet ,consectur adip",
         replies : [],
     },
     {
-        name:"Akshay Saini",
+        name:"Default User",
         text:"Lorem ipsum dolor sit amet ,consectur adip",
         replies : [],
     }

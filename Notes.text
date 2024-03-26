@@ -8,7 +8,6 @@ Youtube Project -
  - bundler
  - jest, 
 
- 
  -header - hamberguer menu - sidebar
    - logo, searchbar , login icon , buttons or vdos
      - Header,vdo, suggestions, comments, subscribe and like button 
@@ -188,3 +187,25 @@ Cache :
 
 
 
+deploy on github  :
+
+> npm install gh-pages --save
+package.json : - 
+  "homepage":"https://rutuchandgude.github.io/namaste-youtube",
+  scripts ->
+      "predeploy":"npm run build",
+      "deploy":"gh-pages -d build",
+
+  >npm run deploy 
+
+
+Deploy on netflix :
+- Manually deployment
+ > npm run deploy
+ - drag & drop build folder
+
+- To change the name of site:
+ - Site configuration (at left sidebar) -> site details
+
+ Deploy on Versal :
+  > sudo npm i -g versal
